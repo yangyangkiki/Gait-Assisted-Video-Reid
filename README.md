@@ -6,6 +6,7 @@
 
 ### Training and test
 e.g. for mars dataset:
+
 sh main.sh
 
 
